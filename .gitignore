@@ -1,0 +1,25 @@
+# Environment and secrets
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.cert
+*.p12
+
+# OS and editor files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and backups
+*.log
+festops-backup-*.json
